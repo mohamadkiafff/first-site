@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Aegis Global Mobility",
+  "description": "Tier-1 sovereign immigration counsel, cross-border corporate relocation, and strategic residency advisory across key global jurisdictions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
